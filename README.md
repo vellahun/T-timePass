@@ -1,2 +1,2 @@
 # T-timePass
-###This repo is meant for hacktoberfest
+### This repo is meant for hacktoberfest
